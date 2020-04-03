@@ -6,3 +6,4 @@ download.microsoft.com
 test.stats.update.microsoft.com
 ntservicepack.microsoft.com
 ctldl.windowsupdate.com
+sls.update.microsoft.com
